@@ -15,7 +15,6 @@ setup(
     url='https://github.com/ohahlev/tmp/tree/%s' % __version__,
     packages=find_packages(),
     install_requires=[
-        'django-tinymce'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
